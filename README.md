@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working at **Macgence**<br><br>👯 I’m looking to collaborate on **AI tools, backend systems, and developer productivity projects**<br><br>🤝 I’m looking for help with **scaling AI systems and building autonomous AI agents**<br><br>🌱 I’m currently learning **Spring Boot, Backend Development, and Node js Frameworks , Next js, React **<br><br>💬 Ask me about **Java, Spring Boot, Backend Development, and System Design**<br><br>⚡ Fun fact **I love building systems from scratch and experimenting with new tech ideas**<br>
+Working at **Macgence**<br><br>👯 I’m looking to collaborate on **AI tools, backend systems, and developer productivity projects**<br><br>🤝 I’m looking for help with **scaling AI systems and building autonomous AI agents**<br><br>🌱 I’m currently learning **Spring Boot, Backend Development,  Next js, AI,Dev ops, cloud **<br><br>💬 Ask me about **Java, Spring Boot, Backend Development, and System Design**<br><br>⚡ Fun fact **I love building systems from scratch and experimenting with new tech ideas**<br>
 
 
 ## 🌐 Socials:
